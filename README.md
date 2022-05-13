@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josh3rill&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josh3rill)](https://git.io/streak-stats)
 <!-- <h3>Open source projects</h3> -->
 <!-- <table>
   <thead align="center">
