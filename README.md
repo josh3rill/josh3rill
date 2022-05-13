@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 <h3>Open source projects</h3>
-<table>
+<!-- <table>
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
-
+ -->
 
 
 <br/>Currently, the weather is: <b> ranging from 28 - 32°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>06:02</b> and sets at <b>19:38</b>
