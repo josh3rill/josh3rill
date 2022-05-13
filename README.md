@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josh3rill&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3>Open source projects</h3>
+<!-- <h3>Open source projects</h3> -->
 <!-- <table>
   <thead align="center">
     <tr border: none;>
