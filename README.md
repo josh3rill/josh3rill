@@ -48,7 +48,11 @@ Here are some ideas to get you started:
 </p>
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=josh3rill-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josh3rill)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3>Open source projects</h3>
 <table>
