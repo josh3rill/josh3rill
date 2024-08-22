@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Joshua, Software Engineer currently a residence  in <img src="https://cdn-icons-png.flaticon.com/512/555/555667.png" width="13"/>,   <b>Hal Ghaxaq, Malta</b>. </p>
+<p>Welcome to my page! </br> I'm Joshua, Software Engineer based in <img src="https://cdn-icons-png.flaticon.com/512/555/555667.png" width="13"/>,   <b>Hal Ghaxaq, Malta</b>. </p>
 
 <p>
  
