@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img alt="Static Badge" src="https://img.shields.io/badge/Kubernete-blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/AWS-blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue_Js-blue">
-   <img alt="Docker" src="https://img.shields.io/badge/-Javascript-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+   <img alt="Docker" src="https://img.shields.io/badge/-Javascript-46a2f1?style=flat-square&logo=javascript&logoColor=white" />
 
 
 
