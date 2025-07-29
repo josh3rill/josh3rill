@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img alt="Static Badge" src="https://img.shields.io/badge/python-blue&logo=python">
   <img alt="Static Badge" src="https://img.shields.io/badge/golang-blue&logo=golang">
   <img alt="Static Badge" src="https://img.shields.io/badge/Kubernete-blue&logo=kubernetes">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-blue&logo=flutter">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Automaton-blue&logo=Automaton">
   <img alt="Static Badge" src="https://img.shields.io/badge/AWS-blue&logo=aws">
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue_Js-blue&logo=vuejs">
   <img alt="Docker" src="https://img.shields.io/badge/-Javascript-46a2f1?style=flat-square&logo=javascript&logoColor=white" />
