@@ -23,8 +23,8 @@ Here are some ideas to get you started:
  
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/laravel-blue&logo=laravel">
-  <img alt="Static Badge" src="https://img.shields.io/badge/php-blue&logo=php">
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-blue&logo=python">
+  <img alt="Static Badge" src="https://img.shields.io/badge/golang-blue&logo=golang">
   <img alt="Static Badge" src="https://img.shields.io/badge/Kubernete-blue&logo=kubernetes">
   <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-blue&logo=flutter">
   <img alt="Static Badge" src="https://img.shields.io/badge/AWS-blue&logo=aws">
