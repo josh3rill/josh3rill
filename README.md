@@ -1,4 +1,4 @@
-### Hi there 👋
+1### Hi there 👋
 
 <!--
 **josh3rill/josh3rill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/python-blue&logo=python">
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-blue&logo=PHP">
   <img alt="Static Badge" src="https://img.shields.io/badge/golang-blue&logo=golang">
   <img alt="Static Badge" src="https://img.shields.io/badge/Kubernete-blue&logo=kubernetes">
   <img alt="Static Badge" src="https://img.shields.io/badge/Automaton-blue&logo=Automaton">
